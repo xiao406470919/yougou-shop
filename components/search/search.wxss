@@ -1,0 +1,22 @@
+.search{
+  background: #eb4450;
+  padding: 18rpx 16rpx;
+}
+.search-in{
+  background: #fff;
+  border-radius: 10rpx;
+  height: 80rpx;
+  /* line-height: 80rpx;
+  text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-icon{
+  font-size: 32rpx;
+}
+.search-text{
+  color: #ccc;
+  font-size: 28rpx;
+  margin-left: 10rpx;
+}
